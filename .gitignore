@@ -1,0 +1,6 @@
+.venv
+
+*.jpg
+*.zip
+*.csv
+**/nltk_data
